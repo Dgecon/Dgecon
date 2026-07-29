@@ -11,7 +11,7 @@
 | | |
 |---|---|
 |Focus|C#, Python|
-|Job|Directum RX C# Developer|
+|Job|DirectumRX C# Developer|
 |Company|[КРЕДО-С](https://www.credos.ru/)|
 
 ## Skills
@@ -26,4 +26,5 @@
 ![Static Badge](https://img.shields.io/badge/Figma-white?style=plastic&logo=figma)
 ![Static Badge](https://img.shields.io/badge/Git-green?style=plastic&logo=git)
 ![Static Badge](https://img.shields.io/badge/Sungero-orange?style=plastic)
+![Static Badge](https://img.shields.io/badge/bash-white?style=plastic&logo=gnubash&logoColor=black)
 
