@@ -12,7 +12,7 @@
 |---|---|
 |Focus|C#, Python|
 |Job|DirectumRX C# Developer|
-|Company|[КРЕДО-С](https://www.credos.ru/), [Directum RX](https://directum.credos.ru/)|
+|Company|[КРЕДО-С](https://www.credos.ru/)|
 
 ## Skills
 
